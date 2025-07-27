@@ -12,9 +12,7 @@
 
 ## 🎬 故事预告
 
-<video width="600" controls>
-  <source src="cover.mp4" type="video/mp4">
-  您的浏览器不支持视频标签。
+<video src="https://github.com/user-attachments/assets/5b7b06f2-f5ce-40b8-9240-243f0771e141" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 </video>
 
 ## 📚 章节目录
