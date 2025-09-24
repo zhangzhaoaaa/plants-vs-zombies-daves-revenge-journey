@@ -25,25 +25,25 @@ This is not only an adventure about courage and wisdom, but also a heartwarming 
 5. [Water Adventure](chapters/05-water-adventure.md) - Pirate zombie ship battle, reach kitchen gate
 
 ### Part Two: Into the Kitchen (Chapters 6-15)
-6. [Kitchen Entrance Puzzle](chapters/06-kitchen-entrance-puzzle.md) - Solve zombie riddles, enter the front hall
-7. [Seasoning Trap](chapters/07-seasoning-trap.md) - Pepper and salt zombies, ice shooter response
-8. [Vegetable War](chapters/08-vegetable-war.md) - Carrot underground attacks, plant army joins
-9. [Freezer Cold World](chapters/09-freezer-cold-world.md) - Ice zombies, fire peppers melt ice
-10. [Oven Flames](chapters/10-oven-flames.md) - Lava challenge, aquatic plants extinguish fire
-11. [Recipe Room Secret](chapters/11-recipe-room-secret.md) - Potion transformation, gain new weapons
-12. [Banquet Hall](chapters/12-banquet-hall.md) - Dancing zombie party, music plants interfere
-13. [Underground Warehouse](chapters/13-underground-warehouse.md) - Box disguises, treasure hunting history
-14. [Elevator Terror](chapters/14-elevator-terror.md) - Falling trap, wall-nut buffer
-15. [Laboratory Destruction](chapters/15-laboratory-destruction.md) - Science zombies, release friendly plants
+6. [Kitchen Entrance Puzzle](chapters/06-厨房入口谜题.md) - Solve zombie riddles, enter the front hall
+7. [Seasoning Trap](chapters/07-调味陷阱.md) - Pepper and salt zombies, ice shooter response
+8. [Vegetable War](chapters/08-蔬菜大战.md) - Carrot underground attacks, plant army joins
+9. [Freezer Cold World](chapters/09-冰箱寒界.md) - Ice zombies, fire peppers melt ice
+10. [Oven Flames](chapters/10-烤箱火焰.md) - Lava challenge, aquatic plants extinguish fire
+11. [Recipe Room Secret](chapters/11-配方室秘密.md) - Potion transformation, gain new weapons
+12. [Banquet Hall](chapters/12-宴会大厅.md) - Dancing zombie party, music plants interfere
+13. [Underground Warehouse](chapters/13-地下仓库.md) - Box disguises, treasure hunting history
+14. [Elevator Terror](chapters/14-电梯惊魂.md) - Falling trap, wall-nut buffer
+15. [Laboratory Destruction](chapters/15-实验室破坏.md) - Science zombies, release friendly plants
 
 ### Part Three: Ultimate Showdown (Chapters 16-18)
-16. [King Awakens](chapters/16-king-awakens.md) - Reveal old enemy, corn cannon struggle
-17. [Final Showdown](chapters/17-final-showdown.md) - Plants vs Zombies ultimate battle
-18. [Explosive Climax](chapters/18-explosive-climax.md) - Kitchen collapse, counterattack resolution
+16. [King Awakens](chapters/16-大王苏醒.md) - Reveal old enemy, corn cannon struggle
+17. [Final Showdown](chapters/17-全面对决.md) - Plants vs Zombies ultimate battle
+18. [Explosive Climax](chapters/18-爆炸高潮.md) - Kitchen collapse, counterattack resolution
 
 ### Part Four: Victory and Rebirth (Chapters 19-20)
-19. [Victory Reflection](chapters/19-victory-reflection.md) - Save some zombies, turn them into allies
-20. [Homecoming New Beginning](chapters/20-homecoming-new-beginning.md) - Rebuild the farm, eternal friendship
+19. [Victory Reflection](chapters/19-胜利反思.md) - Save some zombies, turn them into allies
+20. [Homecoming New Beginning](chapters/20-回家新始.md) - Rebuild the farm, eternal friendship
 
 ## 🌟 Core Themes
 
