@@ -1,37 +1,37 @@
-故事标题：植物大战僵尸：戴夫的复仇之旅
-- 目标受众：5-12 岁儿童，强调幽默、冒险和正面价值观。
-- 整体情节弧：
-    - 开头（章节 1-5）：戴夫和巴迪出发，路上遇到初步奇遇，构建世界观和角色。
-    - 中间（章节 6-15）：深入僵尸厨房，层层挑战，发展盟友和冲突。
-    - 高潮（章节 16-18）：对抗僵尸大王，激烈战斗和揭示秘密。
-    - 结局（章节 19-20）：胜利回家，反思与新冒险暗示。
-- 核心主题：友谊（戴夫与巴迪）、勇气（面对怪异僵尸）、环保（植物保护家园）。
-- 主要角色：
-    - 戴夫：疯狂发明家，勇敢但搞笑，使用植物武器。
-    - 巴迪：忠诚小狗，聪明敏捷，提供幽默和关键帮助。
-    - 植物盟友：豌豆射手、爆炸樱桃等，拟人化角色。
-    - 僵尸敌人：各种变异僵尸（如飞蝙蝠、唱歌花），每个有独特个性；大王作为最终 Boss。
-- 章节大纲（每章约 1500 字，焦点在生动惊险事件）：
-    1. 出发与空中威胁：戴夫和巴迪启程，遇僵尸蝙蝠，使用豌豆射手逃脱。
-    2. 沼泽奇遇：穿越沼泽，战跳跳青蛙和蜜蜂，巴迪救场。
-    3. 迷宫花园：移动向日葵迷宫，解谜逃生。
-    4. 游乐场混战：小丑僵尸游戏，爆炸樱桃反击。
-    5. 水上冒险：海盗僵尸船战，抵达厨房大门。
-    6. 厨房入口谜题：解僵尸谜语，进入前厅。
-    7. 调味陷阱：辣椒和盐巴僵尸，寒冰射手应对。
-    8. 蔬菜大战：胡萝卜钻地攻击，植物大军加入。
-    9. 冰箱寒界：冰冻僵尸，火辣椒融冰。
-    10. 烤箱火焰：熔岩挑战，水生植物灭火。
-    11. 配方室秘密：药水变身，获得新武器。
-    12. 宴会大厅：舞蹈僵尸派对，音乐植物干扰。
-    13. 地下仓库：箱子伪装，挖宝历史。
-    14. 电梯惊魂：坠落陷阱，坚果墙缓冲。
-    15. 实验室破坏：科学僵尸，释放友好植物。
-    16. 大王苏醒：揭秘老敌，玉米炮争夺。
-    17. 全面对决：植物 vs 僵尸大战。
-    18. 爆炸高潮：厨房崩塌，反扑化解。
-    19. 胜利反思：拯救部分僵尸，转为盟友。
-    20. 回家新始：重建农场，友谊永恒。
+Story Title: Plants vs Zombies: Dave's Revenge Journey
+- Target Audience: Children aged 5-12, emphasizing humor, adventure, and positive values.
+- Overall Story Arc:
+    - Beginning (Chapters 1-5): Dave and Buddy set off, encounter initial adventures on the road, building worldview and characters.
+    - Middle (Chapters 6-15): Deep into the zombie kitchen, layer by layer challenges, developing allies and conflicts.
+    - Climax (Chapters 16-18): Confronting the Zombie King, intense battles and revealing secrets.
+    - Ending (Chapters 19-20): Victory and return home, reflection and hints of new adventures.
+- Core Themes: Friendship (Dave and Buddy), courage (facing strange zombies), environmental protection (plants protecting homeland).
+- Main Characters:
+    - Dave: Crazy inventor, brave but funny, uses plant weapons.
+    - Buddy: Loyal dog, clever and agile, provides humor and crucial help.
+    - Plant Allies: Peashooter, Cherry Bomb, etc., anthropomorphic characters.
+    - Zombie Enemies: Various mutant zombies (like flying bats, singing flowers), each with unique personality; King as final Boss.
+- Chapter Outline (each chapter approximately 1500 words, focusing on vivid thrilling events):
+    1. Departure and Aerial Threat: Dave and Buddy set off, encounter zombie bats, escape using peashooters.
+    2. Swamp Adventure: Cross swamp, battle jumping frogs and bees, Buddy to the rescue.
+    3. Maze Garden: Moving sunflower maze, puzzle escape.
+    4. Playground Battle: Clown zombie games, cherry bomb counterattack.
+    5. Water Adventure: Pirate zombie ship battle, reach kitchen gate.
+    6. Kitchen Entrance Puzzle: Solve zombie riddles, enter front hall.
+    7. Seasoning Trap: Pepper and salt zombies, ice shooter response.
+    8. Vegetable War: Carrot underground attacks, plant army joins.
+    9. Freezer Cold World: Ice zombies, fire peppers melt ice.
+    10. Oven Flames: Lava challenge, aquatic plants extinguish fire.
+    11. Recipe Room Secret: Potion transformation, gain new weapons.
+    12. Banquet Hall: Dancing zombie party, music plants interfere.
+    13. Underground Warehouse: Box disguises, treasure hunting history.
+    14. Elevator Terror: Falling trap, wall-nut buffer.
+    15. Laboratory Destruction: Science zombies, release friendly plants.
+    16. King Awakens: Reveal old enemy, corn cannon struggle.
+    17. Final Showdown: Plants vs Zombies battle.
+    18. Explosive Climax: Kitchen collapse, counterattack resolution.
+    19. Victory Reflection: Save some zombies, turn into allies.
+    20. Homecoming New Beginning: Rebuild farm, eternal friendship.
 
 
-    每写一章，都要新生成一个分支，提交一个pr
+    Every chapter written should create a new branch and submit a PR
