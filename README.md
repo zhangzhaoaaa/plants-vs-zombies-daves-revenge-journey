@@ -1,75 +1,74 @@
-# 植物大战僵尸：戴夫的复仇之旅
+# Plants vs Zombies: Dave's Revenge Journey
 
-![封面图片](cover.png)
+![Cover Image](cover.png)
 
-## 📖 故事简介
+## 📖 Story Synopsis
 
-这是一个充满冒险、友谊和勇气的奇幻故事。疯狂发明家戴夫和他忠诚的小狗巴迪踏上了一场惊险刺激的复仇之旅。当神秘的僵尸大王向戴夫发出厨艺比赛的邀请时，戴夫意识到这背后隐藏着巨大的阴谋。
+This is a fantastical story filled with adventure, friendship, and courage. Crazy inventor Dave and his loyal dog Buddy embark on a thrilling revenge journey. When the mysterious Zombie King sends Dave an invitation to a cooking competition, Dave realizes there's a massive conspiracy hidden behind it.
 
-在这个充满奇幻色彩的世界里，戴夫凭借他独特的植物武器和巴迪的聪明才智，穿越危险的沼泽、神秘的迷宫花园、诡异的游乐场，最终深入僵尸大王的厨房堡垒。一路上，他们遇到了各种奇特的僵尸敌人，也结识了许多植物盟友。
+In this fantasy-filled world, Dave uses his unique plant weapons and Buddy's clever wit to traverse dangerous swamps, mysterious maze gardens, and eerie playgrounds, ultimately penetrating deep into the Zombie King's kitchen fortress. Along the way, they encounter various peculiar zombie enemies and befriend many plant allies.
 
-这不仅是一场关于勇气和智慧的冒险，更是一个关于友谊、环保和正义的温暖故事。适合5-12岁的儿童阅读，强调幽默、冒险和正面价值观。
+This is not only an adventure about courage and wisdom, but also a heartwarming story about friendship, environmental protection, and justice. Suitable for children aged 5-12, emphasizing humor, adventure, and positive values.
 
-## 🎬 故事预告
+## 🎬 Story Preview
 
 <video src="https://github.com/user-attachments/assets/5b7b06f2-f5ce-40b8-9240-243f0771e141" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 </video>
 
-## 📚 章节目录
+## 📚 Chapter Index
 
-### 第一部分：启程与奇遇（第1-5章）
-1. [出发与空中威胁](chapters/01-出发与空中威胁.md) - 戴夫和巴迪启程，遇僵尸蝙蝠，使用豌豆射手逃脱
-2. [沼泽奇遇](chapters/02-沼泽奇遇.md) - 穿越沼泽，战跳跳青蛙和蜜蜂，巴迪救场
-3. [迷宫花园](chapters/03-迷宫花园.md) - 移动向日葵迷宫，解谜逃生
-4. [游乐场混战](chapters/04-游乐场混战.md) - 小丑僵尸游戏，爆炸樱桃反击
-5. [水上冒险](chapters/05-水上冒险.md) - 海盗僵尸船战，抵达厨房大门
+### Part One: Departure and Adventures (Chapters 1-5)
+1. [Departure and Aerial Threat](chapters/01-departure-and-aerial-threat.md) - Dave and Buddy set off, encounter zombie bats, escape using peashooters
+2. [Swamp Adventure](chapters/02-swamp-adventure.md) - Cross the swamp, battle jumping frogs and bees, Buddy to the rescue
+3. [Maze Garden](chapters/03-maze-garden.md) - Moving sunflower maze, puzzle escape
+4. [Playground Battle](chapters/04-playground-battle.md) - Clown zombie games, cherry bomb counterattack
+5. [Water Adventure](chapters/05-water-adventure.md) - Pirate zombie ship battle, reach kitchen gate
 
-### 第二部分：深入厨房（第6-15章）
-6. [厨房入口谜题](chapters/06-厨房入口谜题.md) - 解僵尸谜语，进入前厅
-7. [调味陷阱](chapters/07-调味陷阱.md) - 辣椒和盐巴僵尸，寒冰射手应对
-8. [蔬菜大战](chapters/08-蔬菜大战.md) - 胡萝卜钻地攻击，植物大军加入
-9. [冰箱寒界](chapters/09-冰箱寒界.md) - 冰冻僵尸，火辣椒融冰
-10. [烤箱火焰](chapters/10-烤箱火焰.md) - 熔岩挑战，水生植物灭火
-11. [配方室秘密](chapters/11-配方室秘密.md) - 药水变身，获得新武器
-12. [宴会大厅](chapters/12-宴会大厅.md) - 舞蹈僵尸派对，音乐植物干扰
-13. [地下仓库](chapters/13-地下仓库.md) - 箱子伪装，挖宝历史
-14. [电梯惊魂](chapters/14-电梯惊魂.md) - 坠落陷阱，坚果墙缓冲
-15. [实验室破坏](chapters/15-实验室破坏.md) - 科学僵尸，释放友好植物
+### Part Two: Into the Kitchen (Chapters 6-15)
+6. [Kitchen Entrance Puzzle](chapters/06-kitchen-entrance-puzzle.md) - Solve zombie riddles, enter the front hall
+7. [Seasoning Trap](chapters/07-seasoning-trap.md) - Pepper and salt zombies, ice shooter response
+8. [Vegetable War](chapters/08-vegetable-war.md) - Carrot underground attacks, plant army joins
+9. [Freezer Cold World](chapters/09-freezer-cold-world.md) - Ice zombies, fire peppers melt ice
+10. [Oven Flames](chapters/10-oven-flames.md) - Lava challenge, aquatic plants extinguish fire
+11. [Recipe Room Secret](chapters/11-recipe-room-secret.md) - Potion transformation, gain new weapons
+12. [Banquet Hall](chapters/12-banquet-hall.md) - Dancing zombie party, music plants interfere
+13. [Underground Warehouse](chapters/13-underground-warehouse.md) - Box disguises, treasure hunting history
+14. [Elevator Terror](chapters/14-elevator-terror.md) - Falling trap, wall-nut buffer
+15. [Laboratory Destruction](chapters/15-laboratory-destruction.md) - Science zombies, release friendly plants
 
-### 第三部分：终极对决（第16-18章）
-16. [大王苏醒](chapters/16-大王苏醒.md) - 揭秘老敌，玉米炮争夺
-17. [全面对决](chapters/17-全面对决.md) - 植物 vs 僵尸大战
-18. [爆炸高潮](chapters/18-爆炸高潮.md) - 厨房崩塌，反扑化解
+### Part Three: Ultimate Showdown (Chapters 16-18)
+16. [King Awakens](chapters/16-king-awakens.md) - Reveal old enemy, corn cannon struggle
+17. [Final Showdown](chapters/17-final-showdown.md) - Plants vs Zombies ultimate battle
+18. [Explosive Climax](chapters/18-explosive-climax.md) - Kitchen collapse, counterattack resolution
 
-### 第四部分：胜利与新生（第19-20章）
-19. [胜利反思](chapters/19-胜利反思.md) - 拯救部分僵尸，转为盟友
-20. [回家新始](chapters/20-回家新始.md) - 重建农场，友谊永恒
+### Part Four: Victory and Rebirth (Chapters 19-20)
+19. [Victory Reflection](chapters/19-victory-reflection.md) - Save some zombies, turn them into allies
+20. [Homecoming New Beginning](chapters/20-homecoming-new-beginning.md) - Rebuild the farm, eternal friendship
 
-## 🌟 核心主题
+## 🌟 Core Themes
 
-- **友谊** - 戴夫与巴迪之间深厚的友谊，以及与植物盟友们的团结合作
-- **勇气** - 面对各种怪异僵尸和未知挑战时展现的勇敢精神
-- **环保** - 植物保护家园，维护自然平衡的重要意义
-- **正义** - 最终化敌为友，用爱与理解战胜仇恨
+- **Friendship** - Deep friendship between Dave and Buddy, and unity with plant allies
+- **Courage** - Brave spirit shown when facing various strange zombies and unknown challenges
+- **Environmental Protection** - Plants protecting their homeland, maintaining natural balance
+- **Justice** - Ultimately turning enemies into friends, conquering hatred with love and understanding
 
-## 👥 主要角色
+## 👥 Main Characters
 
-### 英雄角色
-- **戴夫** - 疯狂发明家，勇敢但搞笑，擅长使用各种植物武器
-- **巴迪** - 忠诚小狗，聪明敏捷，在关键时刻提供幽默和重要帮助
-- **植物盟友** - 豌豆射手、爆炸樱桃、向日葵等拟人化植物角色
+### Hero Characters
+- **Dave** - Crazy inventor, brave but funny, skilled at using various plant weapons
+- **Buddy** - Loyal dog, clever and agile, provides humor and crucial help at key moments
+- **Plant Allies** - Peashooter, Cherry Bomb, Sunflower and other anthropomorphic plant characters
 
-### 反派角色
-- **僵尸大王** - 最终Boss，隐藏着复杂的过去和动机
-- **各种变异僵尸** - 飞行蝙蝠、唱歌花朵、小丑僵尸等，每个都有独特个性
+### Villain Characters
+- **Zombie King** - Final Boss, hiding a complex past and motivations
+- **Various Mutant Zombies** - Flying bats, singing flowers, clown zombies, etc., each with unique personalities
 
-## 📖 阅读指南
+## 📖 Reading Guide
 
-本故事共20章，每章约1500字，专为5-12岁儿童设计。建议按章节顺序阅读，每个章节都有独立的冒险情节，同时与整体故事线紧密相连。
+This story consists of 20 chapters, approximately 1500 words each, designed specifically for children aged 5-12. We recommend reading in chapter order, as each chapter has independent adventure plots while being closely connected to the overall storyline.
 
-每章结尾都有导航链接，方便读者在章节间跳转阅读。
-
+Each chapter ending has navigation links for easy jumping between chapters.
 
 ---
 
-*一个关于友谊、勇气和成长的奇幻冒险故事，让我们跟随戴夫和巴迪一起踏上这场难忘的旅程吧！*
+*A fantastical adventure story about friendship, courage, and growth. Let's follow Dave and Buddy on this unforgettable journey together!*
